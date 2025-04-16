@@ -51,5 +51,21 @@ This project visualizes monthly trends in the **Consumer Price Index (CPI)** usi
 
 ---
 
-## 📁 Folder Structure
+## 📊 Tableau Charts Included
+
+- **📈 CPI Over Time** (Line Chart)
+- **📊 YoY Inflation** (Bar Chart)
+- **🟦 MoM Heatmap** (Monthly seasonality)
+- **🎚️ Filters** (Date sliders, annotations)
+
+---
+
+## 💡 Future Enhancements
+
+- Compare CPI vs wage growth or interest rates
+- Forecast future CPI using time series models (e.g., ARIMA)
+- Add CPI category breakdown (e.g., Food, Energy, Housing)
+
+
+
 
